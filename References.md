@@ -55,3 +55,6 @@ Poultry Production, August 2012.
 Verleun, Theo, “The Health and Value Equations in Egg,” Asian Poultry Journal, June 2011.
 Zigger, Dick, “The Value of Bio-Fuel Co-Products as Livestock Feed,” All About Feed Journal,
 September 2012.
+
+Chicken Situation Report, 3_SR Chicken Annual Situation Report_signed.pdf
+https://psa.gov.ph/sites/default/files/3_SR%20Chicken%20Annual%20Situation%20Report_signed.pdf
