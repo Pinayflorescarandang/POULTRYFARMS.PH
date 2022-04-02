@@ -1,7 +1,7 @@
 # SANJOSEPOULTRYFARMS.PH
 SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose Batangas.
 
-# Introduction:
+# Introduction
 Batangas has a total of 32 municipalities and two key cities and is divided into four
 congressional districts. San Jose belongs to the fourth congressional district, which is
 designated as the agribusiness area of the province. Established on April 26, 1765 as the old San
@@ -19,8 +19,8 @@ five (5) million eggs daily (Office of Municipal Agriculturist, San Jose).
 Entrepreneurs have the awareness of past, current and future issues affecting their future
 business enterprise (Laguador, 2013). Premised on this socio-economic milieu and as a
 potential resident- entrepreneur, the researcher was inspired to examine the commercial
-potentiality of the local egg industry in San Jose, Batangas within a span of four (4) years, from
-2009 to 2012, and determine the challenges or problems that have confronted said industry
+potentiality of the local egg industry in San Jose, Batangas within a span of three (3) years, from
+2018 to 2020, and determine the challenges or problems that have confronted said industry
 over the same period.
 
 The outcome of this study will be useful for local egg producers and agricultural land owners
@@ -31,7 +31,19 @@ cooperatives and corporations, feed-milling entities and local government offici
 financial assistance focused on the improvement and expansion of agri-business in the
 Province.
 
-# Statement of the Problem:
+# Statement of the Problem
 
-# Objectives of the Study:
-This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose, Batangas. The goals of this study are to present the performance of the egg production business in San Jose over the last four years (2009 to 2012) in terms of chicken layer population, production, and annual gross sales, to determine the commercial potentiality of this business based on this four-year period, and to identify the challenges that this industry faces.
+# Objectives of the Study
+This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose, Batangas. The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of chicken layer population, production, and annual gross sales, to determine the commercial potentiality of this business based on this three-year period, and to identify the challenges that this industry faces.
+
+# Methods
+
+# Results
+Performance of the egg industry in San Jose based on chicken layer population, egg
+production and sales
+
+1. Volume of Production
+
+
+
+
