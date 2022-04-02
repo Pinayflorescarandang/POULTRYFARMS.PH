@@ -39,10 +39,11 @@ This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distr
 # Methods
 
 # Results
-Performance of the egg industry in San Jose based on chicken layer population, egg
-production and sales
-
+Performance of the egg industry in San Jose based on egg production and sales.
 1. Volume of Production
+a. National
+
+
 
 
 
