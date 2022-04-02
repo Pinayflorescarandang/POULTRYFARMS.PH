@@ -30,3 +30,8 @@ coffee and lanzones). This study will also aid also aid the farmers’ organizat
 cooperatives and corporations, feed-milling entities and local government officials in funneling
 financial assistance focused on the improvement and expansion of agri-business in the
 Province.
+
+# Statement of the Problem:
+
+# Objectives of the Study:
+This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose, Batangas. The goals of this study are to present the performance of the egg production business in San Jose over the last four years (2009 to 2012) in terms of chicken layer population, production, and annual gross sales, to determine the commercial potentiality of this business based on this four-year period, and to identify the challenges that this industry faces.
