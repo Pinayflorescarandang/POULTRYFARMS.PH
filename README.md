@@ -42,7 +42,7 @@ This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distr
 Performance of the egg industry in San Jose based on egg production and sales.<br/>
 1. Volume of Production<br/>
 a. National<br/>
-![Figure 1](https://user-images.githubusercontent.com/102750937/161388268-bdb0103f-19e0-4874-a653-f839c12a773d.png)<br/><br/>
+![Figure 1](https://user-images.githubusercontent.com/102750937/161390890-f5e03eaa-7727-42f1-a20d-4a48b79bfed6.png)<br/><br/>
 The total of chicken egg production in 2020 was estimated at 605.79 thousand metric tons. This was 3.9 percent higher compared  with the previous year output of 583.23 thousand metric tons. (Figure 1)<br/><br/>
 b. Provincial<br/>
 ![Figure 2](https://user-images.githubusercontent.com/102750937/161388936-6396bb66-4586-43cd-b63b-617c96b17eea.png)<br/>
