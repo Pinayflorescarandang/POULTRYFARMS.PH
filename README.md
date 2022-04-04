@@ -1,6 +1,5 @@
 # SANJOSEPOULTRYFARMS.PH
-SANJOSEPOULTRYFARMS.PH - Analysis on Egg Production Business in San Jose, 
-Batangas, Philippines
+Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines
 
 # Introduction
 Batangas has a total of 32 municipalities and two key cities and is divided into four
@@ -48,21 +47,13 @@ If the global price of chicken eggs rises, the local price per unit of chicken e
 3. Is fliers will be the best way for fast transaction to the client?
 4. Is social media helpful for the seller and client transaction?
 
-# Objectives of the Study
-This study performed a SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose, Batangas. The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of chicken layer population, production, and annual gross sales, to determine the commercial potentiality of this business based on this three-year period, and to identify the challenges that this industry faces.
+# Significant of the Project
+This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines.  The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of egg production, and annual gross sales, to determine the commercial potentiality of this business based on this three-year period, and to identify the challenges that this industry faces.
 
 # Methods
 
-# Results
-Performance of the egg industry in San Jose based on egg production and sales.<br/>
-1. Volume of Production<br/>
-a. National<br/>
-![Figure 1](https://user-images.githubusercontent.com/102750937/161390890-f5e03eaa-7727-42f1-a20d-4a48b79bfed6.png)<br/><br/>
-The total of chicken egg production in 2020 was estimated at 605.79 thousand metric tons. This was 3.9 percent higher compared  with the previous year output of 583.23 thousand metric tons. (Figure 1)<br/><br/>
-b. Provincial<br/>
-![Figure 2](https://user-images.githubusercontent.com/102750937/161388936-6396bb66-4586-43cd-b63b-617c96b17eea.png)<br/>
-Among the provinces, Batangas was the top producer of chicken egg in 2020 with 151.88 thousand metric tons. This was followed by Pampanga with 69.72 thousand metric tons and Cebu with 45.99 thousand metric tons. The other top chicken egg producing provinces in 2020 were Bukidnon, Bulacan, South Cotabato, Davao City, Rizal, Tarlac, and Negros Occidental. The combined output of these top 10 producing provinces accounted for 69.2 percent of the country's total chicken egg production. (Figure 2)<br/>
-![Maps](https://user-images.githubusercontent.com/102750937/161390610-8f5fe216-1a93-417c-9771-8ed57a6fa18d.png)
+# Expected Output
+
 
 
 
