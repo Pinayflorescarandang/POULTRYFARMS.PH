@@ -54,10 +54,13 @@ This study will be undertaken to provide knowledge and to develop one's ability 
 
 The Owners
     This study will be very beneficial to the owners. Through this research, owners manage effectively their business and help them to increase their income.
+
 The Customers
     This research benefits the customers to give them a quality services and good products. Also to provide them the information that they need.
+
 The Government
     This study will serve as a basis on pricing and exporting the eggs.
+
 The Future Researchers
     The outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
 
