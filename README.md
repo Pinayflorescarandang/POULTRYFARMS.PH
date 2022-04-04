@@ -1,5 +1,6 @@
 # SANJOSEPOULTRYFARMS.PH
-SANJOSEPOULTRYFARMS.PH - A virtual platform for Egg Distribution and Sales in San Jose Batangas.
+SANJOSEPOULTRYFARMS.PH - Analysis on Egg Production Business in San Jose, 
+Batangas, Philippines
 
 # Introduction
 Batangas has a total of 32 municipalities and two key cities and is divided into four
