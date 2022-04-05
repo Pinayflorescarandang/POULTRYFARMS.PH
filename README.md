@@ -61,7 +61,7 @@ The Government, this study will serve as a basis on pricing and exporting the eg
 The Future Researchers, the outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
 
 # Methods
-
+The ex-post facto approach will be used in this project. This method will help the project gather information about the production of eggs and sales in San Jose, Batangas. The frequency distribution and regression analysis were used in this study to offer a trend analysis of the egg industry's performance in terms of egg production and gross annual sales in San Jose, Batangas. The information will be gathered from the Office of the Municipal Agriculturist, Environment and Natural Resources of San Jose, Batangas, as well as the private owners who own a poultry farms, from the backyard to commercial scale. 
 # Expected Output
 <p align="center">
   <img width="608" height="690" src="output.png">
