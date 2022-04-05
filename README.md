@@ -48,7 +48,7 @@ If the global price of chicken eggs rises, the local price per unit of chicken e
 4. Is social media helpful for the seller and client transaction?
 
 # Significant of the Project
-This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines.  The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of egg production, and annual gross sales, to determine the commercial potentiality of this business based on this three-year period, and to identify the challenges that this industry faces.
+This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines.  The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of egg production, and annual gross sales, and to identify the challenges that this industry faces.
 
 This study will be undertaken to provide knowledge and to develop one's ability in business most especially in poultry farming. Benefiting the study are the various sectors as follows:
 
