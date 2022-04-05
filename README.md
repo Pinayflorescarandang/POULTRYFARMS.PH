@@ -63,7 +63,9 @@ The Future Researchers, the outcome of the study is beneficial to the future res
 # Methods
 
 # Expected Output
-![output](https://user-images.githubusercontent.com/102750937/161698608-4f902efa-ca0c-46e6-8659-94d37485f3a0.png)
+<p align="center">
+  <img width="608" height="690" src="output.png">
+</p>
 
 
 
