@@ -26,7 +26,7 @@ over the same period.
 The outcome of this study will be useful for local egg producers and agricultural land owners
 not only in the Municipality of San Jose, but also for the Province of Batangas in order to
 determine whether egg production is a better alternative than crop production (black pepper,
-coffee and lanzones). This study will also aid also aid the farmers’ organizations like
+coffee and lanzones). This study will also aid the farmers’ organizations like
 cooperatives and corporations, feed-milling entities and local government officials in funneling
 financial assistance focused on the improvement and expansion of agri-business in the
 Province.
