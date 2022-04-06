@@ -1,11 +1,5 @@
 # References
 
-Aho, Paul (2010), “Feeding the World and the Role of Poultry,” retrieved on February 16, 2013
-from http://dels.nas.edu/resources/statis_assets/
-
-Belzer, Les (2012), “Objectives of the Asean Free Trade Agreement,” Market Reports 2013 –
-2016, retrieved on March 12, 2013 from www.ehow.com/info_8072618_objectivesasean-trade-agreement/
-
 Bureau of Agricultural Statistics official website – www.bas.gov.ph
 
 CPF Jumps to Philippine Opportunity. (2012), retrieved on March 20, 2013 from
