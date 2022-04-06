@@ -22,7 +22,9 @@ Constantly have to deal with can be ranked in terms of the egg's degree of impor
 
 As for the average farmgate price of chicken eggs in commercial farms from April to June, PSA observed it to be around P5.50 per piece. This was -1.8 percent lower than the average farmgate price of P5.60 per piece in the same period of 2020.
 
-According to UBRA President Bong Inciong. “The volume of production of eggs is high. Those who lost livelihood in hog and poultry raising all shifted there. Consumers are assured of enough supply of eggs. This can be their only protein source if we run out of pork and chicken,”
+According to UBRA President Bong Inciong. “The volume of production of eggs is high. Those who lost livelihood in hog and poultry raising all shifted there. Consumers are assured of enough supply of eggs. This can be their only protein source if we run out of pork and chicken,” and 
+
+The rising coronavirus sickness in 2019 was one of the reasons for the changes in the business (COVID-19). The harshest quarantine settings, according to an industry group, will be particularly devastating to the poultry industry, particularly for small producers.
 
 ## Significant of the Project
 This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines.  The goals of this study are to present the performance of the egg production business in San Jose over the last three years (2018 to 2020) in terms of egg production, and annual gross sales, and to identify the challenges that this industry faces.
