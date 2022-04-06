@@ -7,6 +7,9 @@ http://www.thepoultrysite.com/poultrynews/vars/country/ph
 
 - Department of Trade and Industry official website – www.dti.gov.ph
 
+- House bill declaring San Jose, Batangas as ‘Egg Basket of PH’ approved<br/>
+https://newsinfo.inquirer.net/1368994/house-bill-declaring-san-jose-batangas-as-egg-basket-of-ph-approved
+
 - Chicken Situation Report, 3_SR Chicken Annual Situation Report_signed.pdf
 https://psa.gov.ph/sites/default/files/3_SR%20Chicken%20Annual%20Situation%20Report_signed.pdf
 
