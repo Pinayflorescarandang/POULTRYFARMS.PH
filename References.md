@@ -1,13 +1,5 @@
 # References
 
-Bureau of Agricultural Statistics official website – www.bas.gov.ph
-
-CPF Jumps to Philippine Opportunity. (2012), retrieved on March 20, 2013 from
-http://www.cpf.co.th/new/public/cpf/corporate/company09/
-
-Chicken Industry Update, (2009), retrieved on February 27, 2013 from http://www.the
-poultrysite.com/articles/1364/Philippines_poultry/
-
 DA Seeks More Poultry, Livestock Exports, March 4, 2013, retrieved on March 12, 2013 from
 http://www.thepoultrysite.com/poultrynews/vars/country/ph
 
