@@ -46,7 +46,6 @@ The ex-post facto approach will be used in this project. This method will help t
   <img width="608" height="690" src="output.png">
 </p>
 
-## Dataset
 
 
 
