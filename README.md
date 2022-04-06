@@ -5,7 +5,7 @@ This research looked into the business and sales of eggs in San Jose, Batangas, 
 ## Introduction
 Batangas is divided into four congressional districts and comprises 32 municipalities and two important cities. San Jose is located in the fourth congressional district, which is designated as the province's agriculture area. The lush soil of San Jose, which was founded on April 26, 1765 as the old San Jose de Malaquing Tubig, is ideal for growing coffee, lanzones, and black pepper. San Jose, as a third-class municipality, has seen significant changes in its agricultural practices over the years.
 
-San Jose is today best recognized for its thriving livestock, poultry, and egg industries. The egg producing company in this town has grown from a small backyard operation to a large size operation. San Jose's proximity to Batangas City, Lipa City, and Metro Manila ensures the municipality's business connections. In fact, the municipality is known as the Egg Basket of the Philippines, producing an estimated five million eggs every day (Office of Municipal Agriculturist, San Jose). The town has 342 registered independent poultry farms as of June.
+San Jose is today best recognized for its thriving livestock, poultry, and egg industries. The egg producing company in this town has grown from a small backyard operation to a large size operation. San Jose's proximity to Batangas City, Lipa City, and Metro Manila ensures the municipality's business connections. In fact, the municipality is known as the Egg Basket of the Philippines, producing an estimated five million eggs every day (Office of Municipal Agriculturist, San Jose). As of 2020, there are over 342 registered independent poultry in the municipality, with a declared layers population of 12,543,066.
 
 Entrepreneurs have the awareness of past, current and future issues affecting their future business enterprise (Laguador, 2013). Based on this socioeconomic context and as a potential resident-entrepreneur, the researcher was motivated to investigate the commercial potentiality of the local egg industry in San Jose, Batangas over a three-year period, from 2018 to 2020, and to identify the challenges or problems that the industry faced during that time.
 
@@ -15,7 +15,10 @@ The findings of this research will be valuable to local egg producers and agricu
 According to conversations with egg producers in San Jose, the more tough problems they face, the better.
 Constantly have to deal with can be ranked in terms of the egg's degree of importance.
 (1) high inflation rate; (2) low farm-gate pricing; and (3) high feed prices are all factors that affect the production company.
-![image](https://user-images.githubusercontent.com/102750937/161904787-49585bc1-6dbc-41f2-8c23-c9caf486548d.png)<br/>
+<p align="center">
+  <img width="1014" height="1020" src="egg.jpeg">
+</p>
+<br/>
 
 As for the average farmgate price of chicken eggs in commercial farms from April to June, PSA observed it to be around P5.50 per piece. This was -1.8 percent lower than the average farmgate price of P5.60 per piece in the same period of 2020.
 
