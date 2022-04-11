@@ -41,8 +41,8 @@ This study will be undertaken to provide knowledge and to develop one's ability 
 4. The Future Researchers, the outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
 
 ## Methods
-The ex-post facto method was used in this action research. The Municipal Agriculturist of San Jose, Batangas, as well as resident-owners and backyard poultry farms, and members of the Batangas Egg Producers Cooperative were among the study's informants (BEPCO). The interview method was used to back up the numerical figures or data collected from the questionnaire.
-San Jose, Batangas Municipal Agriculturist and Environment and Natural Resources Office (MAENRO). To offer the Analysis on Egg Production Business and Sales in terms of egg production and gross annual sales in San Jose, Batangas, this study used frequency distribution and regression analysis.
+The ex-post facto method is the one used in conducting this research. The study informants involved in the research were the Municipal Agriculturist of San Jose, Batangas, resident-owners and backyard poultry farms, and members of the Batangas Egg Producers Cooperative (BEPCO). The interview method was used to back up the numerical figures or data collected from the questionnaire.
+In San Jose, Batangas, Municipal Agriculturist and Environment and Natural Resources Office (MAENRO). To offer the Analysis of Egg Production Business and Sales in terms of egg production and gross annual sales in San Jose, Batangas, this study used frequency distribution and regression analysis.
 
 ## Expected Output
 <p align="center">
