@@ -13,6 +13,9 @@ http://www.thepoultrysite.com/poultrynews/vars/country/ph
 - Villar eyes Batangas town as PH ‘egg capital’ <br/>
  https://manilastandard.net/news/314161738/villar-eyes-batangas-town-as-ph-egg-capital.html
 
-- PH’s egg output rises, and it’s causing problems for producers
+- PH’s egg output rises, and it’s causing problems for producers <br/>
 https://mb.com.ph/2021/09/12/phs-egg-output-rises-and-its-causing-problems-for-producers/
+
+- DA chief highlights poultry sector’s crucial role in agri growth <br/>
+https://pia.gov.ph/press-releases/2021/08/31/da-chief-highlights-poultry-sectors-crucial-role-in-agri-growth?fbclid=IwAR3RdjGVmdcvPtuV3kBbDus-ZlXp28cPjX_dVrXqftUbgbqO_wIBaq04TnQ
 
