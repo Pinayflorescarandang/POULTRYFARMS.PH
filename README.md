@@ -7,7 +7,7 @@ Eggs are the most environmentally friendly source of animal protein. The chicken
 
 San Jose is today best recognized for its thriving livestock, poultry, and egg industries. The egg-producing company in this town has grown from a small operation to a large operation. San Jose's proximity to Batangas City, Lipa City, and Metro Manila ensure the municipality's business connections. When compared to pigs and chickens, poultry is the most sustainable major meat. In fact, the municipality is known as the Egg Basket of the Philippines, producing an estimated five million eggs every day (Office of Municipal Agriculturist, San Jose). Today, the Batangas Egg Producers Association (BAEPA) cited that the whole province of Batangas has an estimated 30 million daily egg production with San Jose town as the highest with a declared layers population of 12,543,066 and more than 705 MT chicken egg production on a daily basis. The average farm-gate price of chicken eggs in commercial farms from January to March 2020 was quoted at Php 5.62 per piece, an increase of 20.9 percent compared with the 2019 same period average farm gate price of Php 4.65 per piece. The town has 342 registered independent poultry farms as of June 2020. 
 
-According to the DA communications Group,   Agriculture Secretary William Dar highlighted the crucial role of the poultry sector in the growth of the agriculture sector during his opening address for the “Philippine Poultry and Livestock Virtual Summit” on August 27, 2021.
+According to Agriculture Secretary William Dar, He highlighted the crucial role of the poultry sector in the growth of the agriculture sector during his opening address for the “Philippine Poultry and Livestock Virtual Summit” on August 27, 2021.
 Poultry production accounts for 13% of agriculture gross value added (GVA). He said "we aim to help farm families recover from the loss of jobs and unemployment due to the Covid-19 pandemic, and those whose poultry stocks were depleted by avian influenza.”
 
 The findings of this research will be valuable to local egg producers and agricultural landowners, not only in San Jose but also in Batangas Province, in determining whether egg production is a better alternative to crop cultivation (black pepper, coffee, and lanzones). This research will also assist farmers' groups such as cooperatives and businesses, feed-milling companies, and local government authorities in channeling financial assistance aimed at improving and expanding agribusiness in the province.
@@ -32,13 +32,13 @@ This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Busine
 
 This study will be undertaken to provide knowledge and to develop one's ability in business most especially in poultry farming. Benefiting the study are the various sectors as follows:
 
-The Owners, this study will be very beneficial to the owners. Through this research, owners manage effectively their business and help them to increase their income.
+1. The Owners, this study will be very beneficial to the owners. Through this research, owners manage effectively their business and help them to increase their income.
 
-The Customers, this research benefits the customers to give them a quality services and good products. Also to provide them the information that they need.
+2. The Customers, this research benefits the customers to give them a quality services and good products. Also to provide them the information that they need.
 
-The Government, this study will serve as a basis on pricing and exporting the eggs.
+3. The Government, this study will serve as a basis on pricing and exporting the eggs.
 
-The Future Researchers, the outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
+4. The Future Researchers, the outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
 
 ## Methods
 The ex-post facto method was used in this action research. The Municipal Agriculturist of San Jose, Batangas, as well as resident-owners and backyard poultry farms, and members of the Batangas Egg Producers Cooperative were among the study's informants (BEPCO). The interview method was used to back up the numerical figures or data collected from the questionnaire.
