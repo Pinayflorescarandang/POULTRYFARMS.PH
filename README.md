@@ -17,7 +17,7 @@ According to conversations with egg producers in San Jose, the more tough proble
 Constantly have to deal with can be ranked in terms of the egg's degree of importance.
 (1) high inflation rate; (2) low farm-gate pricing; and (3) high feed prices are all factors that affect the production company.
 <p align="center">
-  <img width="900" height="700" src="egg.jpeg">
+  <img width="900" height="700" src="poultry.jpeg">
 </p>
 <br/>
 
