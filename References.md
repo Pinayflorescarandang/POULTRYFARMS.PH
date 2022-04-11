@@ -1,4 +1,7 @@
 # References
+- AN ACT DECLARING THE MUNICIPALITY OF SAN JOSE IN THE PROVINCE OF
+BATANGAS, AS THE "EGG BASKET OF THE PHILIPPINES"
+https://legacy.senate.gov.ph/lisdata/3446531278!.pdf
 
 - DA Seeks More Poultry, Livestock Exports, March 4, 2013, retrieved on March 12, 2013 from
 http://www.thepoultrysite.com/poultrynews/vars/country/ph
