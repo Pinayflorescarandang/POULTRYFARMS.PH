@@ -1,5 +1,5 @@
-# SANJOSEPOULTRYFARMS.PH
-Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines
+# POULTRYFARMS.PH
+Analysis on Egg Production Business and Sales in Philippines
 ## Abstract
 This research looked into the business and sales of eggs in San Jose, Batangas, Philippines. This research focused on the egg industry's success over the last three years (2018-2021) in terms of egg production, and annual gross sales. And the challenges it faces. They were the ones who helped to provide the information needed for this study: Municipal agriculturists, resident-owners, backyard poultry farms, and members of the Batangas Egg Producers Cooperative. Poultry in San Jose is profitable and known to have the most production here and will continue to grow over the next five years. Some of the challenges poultry owners face are rising feed prices, changing weather and causing illness in chickens, and the advent of covid -19, which has caused a weakening of businesses in the town of San Jose, Batangas.
 ## Introduction
