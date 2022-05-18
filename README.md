@@ -11,7 +11,7 @@ Poultry production accounts for 13% of agriculture gross value added (GVA). He s
 The findings of this research will be valuable to local egg producers and agricultural landowners, not only in San Jose but also in Batangas Province, in determining whether egg production is a better alternative to crop cultivation (black pepper, coffee, and lanzones). This research will also assist farmers' groups such as cooperatives and businesses, feed-milling companies, and local government authorities in channeling financial assistance aimed at improving and expanding agribusiness in the province.
 
 ## Statement of the Problem
-According to conversations with egg producers in San Jose, the more tough problems they face, the better.
+According to conversations with egg producers, the more tough problems they face, the better.
 Constantly have to deal with can be ranked in terms of the egg's degree of importance.
 (1) high inflation rate; (2) low farm-gate pricing; and (3) high feed prices are all factors that affect the production company.
 <p align="center">
@@ -19,15 +19,13 @@ Constantly have to deal with can be ranked in terms of the egg's degree of impor
 </p>
 <br/>
 
-We all know that we have the egg producers in San Jose Batangas, but we've known that there's a challenge or problems we encountered in selling eggs.
+We all know that we have the egg producers here in the Philippines, but we've known that there's a challenge or problems we encountered in selling eggs.
 
 There's so many platforms we use to sell the eggs like online platforms, and also a fliers. We've encountered so many problems in the chicken like flue or viruses that the chicken facing. So that we have to protect the chicken so that their eggs is good and not rotten.
 
-As for the average farmgate price of chicken eggs in commercial farms from April to June, PSA observed it to be around P5.50 per piece. This was -1.8 percent lower than the average farmgate price of P5.60 per piece in the same period of 2020.
+As for the average farmgate price of chicken eggs by 2018 - 2020, the annual amount in 2018 from January to December is 53,356, in 2019 the annual amount from January to December is 63,532, and lastly the 2020 annual amount is 74,156.This source is from The Agricultural Accounts Division, Philippine Statistics Authority (DDA , PSA)
 
-According to UBRA President Bong Inciong. “The volume of production of eggs is high. Those who lost livelihood in hog and poultry raising all shifted there. Consumers are assured of enough supply of eggs. This can be their only protein source if we run out of pork and chicken". 
 
-The rising coronavirus sickness in 2019 was one of the reasons for the changes in the business (COVID-19). The harshest quarantine settings, according to an industry group, will be particularly devastating to the poultry industry, particularly for small producers.
 
 ## Significant of the Project
 This study performed a POULTRYFARMS.PH -Analysis on Egg Production Business and Sales in Philippines. This study will be undertaken to provide knowledge and to develop one's ability in business most especially in poultry farming. Benefiting the study are the various sectors as follows:
