@@ -48,7 +48,7 @@ In San Jose, Batangas, Municipal Agriculturist and Environment and Natural Resou
 
 ## Expected Output
 <p align="center">
-  <img width="608" height="690" src="output.png">
+  <img width="608" height="690" src="expected-output.png">
 </p>
 
 
