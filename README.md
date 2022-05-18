@@ -32,9 +32,7 @@ According to UBRA President Bong Inciong. “The volume of production of eggs is
 The rising coronavirus sickness in 2019 was one of the reasons for the changes in the business (COVID-19). The harshest quarantine settings, according to an industry group, will be particularly devastating to the poultry industry, particularly for small producers.
 
 ## Significant of the Project
-This study performed a SANJOSEPOULTRYFARMS.PH -Analysis on Egg Production Business and Sales in San Jose, Batangas, Philippines.  The goals of this study are to present the performance of the egg production business in San Jose over the last four years (2018 to 2021) in terms of egg production, and annual gross sales, and to identify the challenges that this industry faces.
-
-This study will be undertaken to provide knowledge and to develop one's ability in business most especially in poultry farming. Benefiting the study are the various sectors as follows:
+This study performed a POULTRYFARMS.PH -Analysis on Egg Production Business and Sales in Philippines. This study will be undertaken to provide knowledge and to develop one's ability in business most especially in poultry farming. Benefiting the study are the various sectors as follows:
 
 1. The Owners, this study will be very beneficial to the owners. Through this research, owners manage effectively their business and help them to increase their income.
 
