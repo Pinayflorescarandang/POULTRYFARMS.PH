@@ -19,7 +19,7 @@ Constantly have to deal with can be ranked in terms of the egg's degree of impor
 </p>
 <br/>
 
-We all know that we have the egg producers here in the Philippines, but we've known that there's a challenge or problems we encountered in selling eggs.
+We all know that we have the egg producers here in the Philippines, but we've known that there's a challenge or problems we encountered in selling eggs. Just like those who are starting a business.
 
 There's so many platforms we use to sell the eggs like online platforms, and also a fliers. We've encountered so many problems in the chicken like flue or viruses that the chicken facing. So that we have to protect the chicken so that their eggs is good and not rotten.
 
