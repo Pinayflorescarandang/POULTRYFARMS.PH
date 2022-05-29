@@ -44,16 +44,24 @@ Quantitative method is the one used in conducting this research. The study infor
   <img width="608" height="690" src="expected-output.png">
 </p>
 
+## Sustainable Development Goal
+
+
 ## Interview of Poultry Businesses
 <p align="center">
-  <img width="608" height="690" src="expected-output.png">
+  <img width="1024" height="600" src="poultryfarm.ph.png">
 </p>
 
-The researchers will conduct this interview to determine the challenges associated with egg production, sales, and services. On May 25, 2022, we will begin conducting personal interviews in San Jose, Batangas. The best experience that they can give some trivia on how they run the businesses, poultry life, smells of chicken and seeing eggs in their backyard, and learning about their life business.
+The researchers will conduct this interview to determine the challenges associated with egg production, sales, and services. On May 25, 2022, we begin conducting personal interviews in San Jose, Batangas. The best experience that they can give some trivia on how they run the businesses, poultry life, smells of chicken and seeing eggs in their backyard, and learning about their life business.
 
 
 
-
+### Member:
+- Baja, Aaron
+- Bejasa, Jolieous Andriegh
+- Cabrera, Madelyn
+- Carandang, Pilipina 
+- Vicedo, Kyla Marie
 
 
 
