@@ -46,7 +46,9 @@ Quantitative method is the one used in conducting this research. The study infor
 
 ## Sustainable Development Goal
 Our study focuses on goal number 8- Decent Work and Economic Growth, because given its definition it promotes sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. Our team believes that our project is aiming to reach this goal, because it benefits our agricultural growth, and it is one of the greatest economic assets of our country.
-
+<p align="center">
+  <img width="608" height="690" src="Goal8icon.png">
+</p>
 
 
 ## Interview of Poultry Businesses
