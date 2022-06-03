@@ -36,7 +36,7 @@ This study performed a POULTRYFARMS.PH -Analysis on Egg Production Business and 
 4. The Future Researchers, the outcome of the study is beneficial to the future researchers. This study may be one of the basis that a new theory in learning will arise. Also, this may serves as one of the sources that they may rely on.
 
 ## Methods
-Quantitative method is the one used in conducting this research. The study informants involved the research poultry farms here in the Philippines resident-owners and backyard poultry farms, and members. The interview method that we conduct via personal and online. This research is more on collecting data which is this study focuses the poultry farm in the philippines. The Analysis of Egg Production Business and Sales in terms of egg production and gross annual sales in the Philippines, this study used frequency distribution and regression analysis.
+Qualitative method is the one used in conducting this research. The study informants involved the research poultry farms here in the Philippines resident-owners and backyard poultry farms, and members. The interview method that we conduct via personal and online. This research is more on collecting data which is this study focuses the poultry farm in the philippines. The Analysis of Egg Production Business and Sales in terms of egg production and gross annual sales in the Philippines, this study used frequency distribution and regression analysis.
 
 
 ## Expected Output
