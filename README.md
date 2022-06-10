@@ -67,6 +67,8 @@ The researchers will conduct this interview to determine the challenges associat
 - Carandang, Pilipina 
 - Vicedo, Kyla Marie
 
-
+## Video Links
+https://www.youtube.com/watch?v=BzHMlGnM3e0
+https://www.youtube.com/watch?v=y53t5TxgcY4
 
 
